@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+PyMuPDF
+reportlab
+Pillow
+rapidfuzz
